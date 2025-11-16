@@ -1,8 +1,0 @@
--include ../../../frameworks/base/packages/SystemUI/proguard.flags
-
--keep class android.frameworks.** { *; }
--keep class android.hardware.** { *; }
--keep class com.android.systemui.smartspace.** { *; }
--keep class com.google.** { *; }
--keep class org.tensorflow.** { *; }
--keep class vendor.** { *; }
